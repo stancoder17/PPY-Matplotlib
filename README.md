@@ -5,7 +5,7 @@ Three tasks to practice Python's matplotlib library
 Generate (x, y) data points for two mathematical functions:
 - Linear function: y1 = 2x + 1
 - Quadratic function: y2 = x² − 3x + 2
-- 
+
 Plot both functions on a single chart using matplotlib:
 Display the linear function as a scatter plot.
 Display the quadratic function as a continuous line.
@@ -16,7 +16,7 @@ Using matplotlib, create three separate bar charts for the following data — on
 - Plot 1: Mathematics results
 - Plot 2: Physics results
 - Plot 3: Chemistry results
-- 
+  
 Add a title and axis labels to each subplot.
 Arrange all subplots in a single row within one figure, adjusting the figure size appropriately.
 
@@ -35,5 +35,6 @@ Add the following elements to the chart:
 - Axis labels:
   X-axis: "Day of the Week"
   Y-axis: "Number of Steps"
+  
 Include a legend identifying the users.
 Highlight the points corresponding to each user’s highest step count using the appropriate color and a star marker.
